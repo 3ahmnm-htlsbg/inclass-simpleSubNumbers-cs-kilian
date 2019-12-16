@@ -4,9 +4,9 @@
 Introduction/Project summary 
 
 ### Development platform: 
-Windows 10.0.18362 
-Unity 2019.1.14f1 
-Visual Studio Code 1.40.2 
+Windows 10.0.18362; 
+Unity 2019.1.14f1;
+Visual Studio Code 1.40.2; 
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
