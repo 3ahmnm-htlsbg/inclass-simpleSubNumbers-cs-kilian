@@ -4,7 +4,9 @@
 Introduction/Project summary 
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+Windows 10.0.18362
+Unity 2019.1.14f1
+Visual Studio Code 1.40.2
 
 ### Target platform: 
 WebGL, Mobile, VR Device incl. reference resolution 
@@ -16,14 +18,13 @@ Screenshots (concept and experience), Video
 Installation process, e.g. step by step instructions that I can run the project after cloning it
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
-
 
 ### Project state: 
-incl. progress in percent
 
 ### Limitations: 
 
 ### Lessons Learned: 
+Creating a GUI in Unity.
 
-Copyright by you :)
+
+Copyright by Kilian
